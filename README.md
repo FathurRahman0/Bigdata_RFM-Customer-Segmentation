@@ -62,7 +62,7 @@ Pelanggan dikelompokkan menjadi enam segmen:
 
 Dashboard Power BI menyajikan beberapa informasi utama:
 
-!![RFM Customer Segmentation Dashboard](image/Dasboard_RFM_Customer_Segmentation.png)
+![RFM Customer Segmentation Dashboard](image/Dasboard_RFM_Customer_Segmentation.png)
 
 1. Total pelanggan.
 2. Jumlah segmen pelanggan.
